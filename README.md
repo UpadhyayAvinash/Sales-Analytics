@@ -10,9 +10,9 @@ In this project we use Python Pandas & Python Matplotlib and Seaborn to analyze 
 
 We start by cleaning our data. Tasks during this section include:
 
-Drop NaN values from DataFrame
-Removing rows based on a certain conditions
-Change the type of columns (to_numeric, to_datetime, astype)
+# Drop NaN values from DataFrame
+# Removing rows based on a certain conditions
+# Change the type of columns (to_numeric, to_datetime, astype)
 
 Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
 
